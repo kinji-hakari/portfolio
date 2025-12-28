@@ -15,7 +15,7 @@ export default function Footer({ darkMode }: FooterProps) {
         <div className="flex flex-col md:flex-row justify-between items-center gap-4">
           
           <a
-            href="public\CV_Amin_Hammami.pdf"
+            href="/CV_Amin_Hammami.pdf"
             download
             className="flex items-center gap-2 text-blue-600 hover:text-blue-700 transition-colors font-medium"
           >

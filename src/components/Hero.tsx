@@ -80,7 +80,7 @@ export default function Hero({ darkMode }: HeroProps) {
             >
               <div className="w-full h-full flex items-center justify-center">
                 <img
-                  src="public\Amin.jpg"
+                  src="/Amin.jpg"
                   alt="Professional placeholder"
                   className="w-full h-full object-cover"
                 />
